@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:regular,500,600,700&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=Martel:200,300,regular,600,700,800,900&display=swap&subset=cyrillic-ext');
+
+
+
+
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+html{
+
+}
+body{font-family:' Martel', sans-serif;
+
+}
+.sent{text-align: center;
+
+}
+#top{text-align: center; color:rgba(34, 53, 219,12); font-size:  50px;
+
+}
+.tul{
+    text-align: right;
+    color:rgb(143, 192, 52);
+    font-family:" Dancing+Script" , serif;
+    text-shadow: 1px 1px 1px #000;
+}
+#top{
+    text-shadow: 1px 1px 8px rgb(121, 15, 15);
+    text-align: center;
+    color:brown;
+    font-style: italic;
+}
+.text{
+    color:coral;
+    text-transform: capitalize;
+
+}
+#geo{
+    text-align: center;color:gray;font-size: 50px;
+}
+.loc{
+    line-height: 190%;color:hotpink
+}
+#img{
+  
+        display: block;
+        margin: 0 auto;
+      }
+      #amaz{
+          text-align: center;
+          color:lightseagreen;text-decoration: line-through;
+
+      }
+      .zoo{
+          text-align: right;text-decoration-line: underline;
+          font-size: 55px;
+          font-family:Georgia, 'Times New Roman';
+          color:lightskyblue;}
+          #zoo{letter-spacing: 4px;
+          background-color:aquamarine;
+          text-decoration: underline;}
+          p{
+              text-align: center;
+          }
+          .csn{ color:blueviolet;text-align: justify;
+            font-weight: 700;
+            font-style: italic; 
+        
+        
+        }
+        .educ{background-color:black;}
+        #educ{
+            text-align: center;font-size: 200%;
+            color:white;
+            
+            letter-spacing: 7px;
+           
+          
+            
+            text-shadow: 1px 1px 8px #000; 
+           
+        }
+
+
+          
